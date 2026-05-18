@@ -1,0 +1,49 @@
+title: Greenfield eller Brownfield?
+subtitle: En beslutshandbok för containerplattformar i myndighetsmiljö
+author: Erland Lindmark
+language: sv
+difficulty: experienced
+audience: Chefer och beslutsfattare i större myndigheter
+book_type: practical decision handbook
+edition: '1'
+version: 1.0.3
+date: '2026-05-18'
+rights: All rights reserved
+publisher: ''
+cover_image: assets/cover/cover.png
+identifier: urn:uuid:ee47369a-b036-4b6b-8d21-9dd1a962e531
+creator_role: aut
+subject: Containerplattformar, OpenShift, greenfield, brownfield, myndighetsstyrning
+description: En praktisk beslutshandbok för chefer som ska välja greenfield, brownfield
+  eller hybrid vid införande av containerplattformar i komplexa myndighetsmiljöer.
+project_slug: greenfield-eller-brownfield
+zip_naming:
+  initial: greenfield-eller-brownfield-projekt.zip
+  chapter_update: greenfield-eller-brownfield-projekt-kapitel-NN.zip
+chapters:
+- chapters/00-inledning.md
+- chapters/01-vad-ar-det-som-infors.md
+- chapters/02-greenfield-och-brownfield-som-vagval.md
+- chapters/03-myndighetskontexten-styrning-sakerhet-och-beroenden.md
+- chapters/04-nulaget-vad-maste-ni-forsta-innan-beslut.md
+- chapters/05-greenfield-nar-det-ar-klokt-och-nar-det-ar-riskabelt.md
+- chapters/06-brownfield-nar-det-ar-klokt-och-nar-det-ar-riskabelt.md
+- chapters/07-hybridvagen-ofta-den-praktiska-kompromissen.md
+- chapters/08-beslutsmodellen-sa-valjer-ni-ratt-vag.md
+- chapters/09-genomforande-efter-beslutet.md
+- chapters/10-uppfoljning-fran-teknikinforande-till-organisatorisk-formaga.md
+exports:
+  epub:
+    enabled: true
+    include_text_toc: false
+    airy_layout: true
+    render_markdown_styles: true
+  pdf:
+    enabled: true
+    include_toc_before_introduction: true
+    render_markdown_styles: true
+  docx:
+    enabled: true
+    render_markdown_styles: true
+  markdown:
+    enabled: true

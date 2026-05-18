@@ -1,0 +1,20 @@
+title: Greenfield eller Brownfield?
+subtitle: En beslutshandbok för containerplattformar i myndighetsmiljö
+author: Erland Lindmark
+language: sv
+version: 1.0.3
+date: '2026-05-18'
+identifier: urn:uuid:ee47369a-b036-4b6b-8d21-9dd1a962e531
+chapters:
+- chapters/00-inledning.md
+- chapters/01-vad-ar-det-som-infors.md
+- chapters/02-greenfield-och-brownfield-som-vagval.md
+- chapters/03-myndighetskontexten-styrning-sakerhet-och-beroenden.md
+- chapters/04-nulaget-vad-maste-ni-forsta-innan-beslut.md
+- chapters/05-greenfield-nar-det-ar-klokt-och-nar-det-ar-riskabelt.md
+- chapters/06-brownfield-nar-det-ar-klokt-och-nar-det-ar-riskabelt.md
+- chapters/07-hybridvagen-ofta-den-praktiska-kompromissen.md
+- chapters/08-beslutsmodellen-sa-valjer-ni-ratt-vag.md
+- chapters/09-genomforande-efter-beslutet.md
+- chapters/10-uppfoljning-fran-teknikinforande-till-organisatorisk-formaga.md
+cover_image: assets/cover/cover.png
